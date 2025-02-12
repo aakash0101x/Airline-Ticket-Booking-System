@@ -18,12 +18,11 @@ A **C++ console-based application** that allows users to book, view, and cancel 
 ## 📂 How to Run
 1️⃣ Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/airline-ticket-system.git
-   cd airline-ticket-system
+   https://github.com/aakash0101x/Airline-Ticket-Booking-System.git
    ```
 2️⃣ Compile the program:
 ```bash
-g++ main.cpp -o airline_system
+g++ main.cpp -o main
 ```
 3️⃣ Run the executable:
 ```bash
